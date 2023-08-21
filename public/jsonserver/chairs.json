@@ -1,0 +1,756 @@
+[{
+        "number": 1,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 2,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 3,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 4,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 5,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 6,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 7,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 8,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 9,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 10,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 11,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 12,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 13,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 14,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 15,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 16,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 17,
+        "section": "A",
+        "price": 600000,
+        "state": "unselected"
+    },
+    {
+        "number": 18,
+        "section": "A",
+        "price": 600000,
+        "state": "unselected"
+    },
+    {
+        "number": 19,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 20,
+        "section": "A",
+        "price": 600000,
+        "state": "unselected"
+    },
+    {
+        "number": 21,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 22,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 23,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 24,
+        "section": "A",
+        "price": 600000,
+        "state": "selected"
+    },
+    {
+        "number": 25,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 26,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 27,
+        "section": "A",
+        "price": 520000,
+        "state": "unselected"
+    },
+    {
+        "number": 28,
+        "section": "A",
+        "price": 520000,
+        "state": "unselected"
+    },
+    {
+        "number": 29,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 30,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 31,
+        "section": "A",
+        "price": 520000,
+        "state": "unselected"
+    },
+    {
+        "number": 32,
+        "section": "A",
+        "price": 520000,
+        "state": "unselected"
+    },
+    {
+        "number": 33,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 34,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 35,
+        "section": "A",
+        "price": 520000,
+        "state": "selected"
+    },
+    {
+        "number": 36,
+        "section": "A",
+        "price": 520000,
+        "state": "unselected"
+    },
+    {
+        "number": 37,
+        "section": "A",
+        "price": 450000,
+        "state": "unselected"
+    },
+    {
+        "number": 38,
+        "section": "A",
+        "price": 450000,
+        "state": "unselected"
+    },
+    {
+        "number": 39,
+        "section": "B",
+        "price": 450000,
+        "state": "unselected"
+    },
+    {
+        "number": 40,
+        "section": "A",
+        "price": 450000,
+        "state": "selected"
+    },
+    {
+        "number": 41,
+        "section": "A",
+        "price": 450000,
+        "state": "unselected"
+    },
+    {
+        "number": 42,
+        "section": "C",
+        "price": 450000,
+        "state": "selected"
+    },
+    {
+        "number": 43,
+        "section": "B",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 44,
+        "section": "B",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 45,
+        "section": "B",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 46,
+        "section": "B",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 47,
+        "section": "B",
+        "price": 500000,
+        "state": "selected"
+    },
+    {
+        "number": 48,
+        "section": "B",
+        "price": 500000,
+        "state": "selected"
+    },
+    {
+        "number": 49,
+        "section": "B",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 50,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 51,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 52,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 53,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 54,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 55,
+        "section": "D",
+        "price": 380000,
+        "state": "unselected"
+    },
+    {
+        "number": 56,
+        "section": "D",
+        "price": 380000,
+        "state": "unselected"
+    },
+    {
+        "number": 57,
+        "section": "D",
+        "price": 380000,
+        "state": "unselected"
+    },
+    {
+        "number": 58,
+        "section": "D",
+        "price": 380000,
+        "state": "selected"
+    },
+    {
+        "number": 59,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 60,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 61,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 62,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 63,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 64,
+        "section": "D",
+        "price": 190000,
+        "state": "selected"
+    },
+    {
+        "number": 65,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 66,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 67,
+        "section": "C",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 68,
+        "section": "C",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 69,
+        "section": "C",
+        "price": 500000,
+        "state": "selected"
+    },
+    {
+        "number": 70,
+        "section": "C",
+        "price": 500000,
+        "state": "selected"
+    },
+    {
+        "number": 71,
+        "section": "C",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 72,
+        "section": "C",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 73,
+        "section": "C",
+        "price": 500000,
+        "state": "selected"
+    },
+    {
+        "number": 74,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 75,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 76,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 77,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 78,
+        "section": "D",
+        "price": 500000,
+        "state": "unselected"
+    },
+    {
+        "number": 79,
+        "section": "D",
+        "price": 380000,
+        "state": "unselected"
+    },
+    {
+        "number": 80,
+        "section": "D",
+        "price": 380000,
+        "state": "selected"
+    },
+    {
+        "number": 81,
+        "section": "D",
+        "price": 380000,
+        "state": "selected"
+    },
+    {
+        "number": 82,
+        "section": "D",
+        "price": 380000,
+        "state": "unselected"
+    },
+    {
+        "number": 83,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 84,
+        "section": "D",
+        "price": 320000,
+        "state": "unselected"
+    },
+    {
+        "number": 85,
+        "section": "D",
+        "price": 320000,
+        "state": "selected"
+    },
+    {
+        "number": 86,
+        "section": "D",
+        "price": 320000,
+        "state": "selected"
+    },
+    {
+        "number": 87,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 88,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 89,
+        "section": "D",
+        "price": 190000,
+        "state": "selected"
+    },
+    {
+        "number": 90,
+        "section": "D",
+        "price": 190000,
+        "state": "unselected"
+    },
+    {
+        "number": 91,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 92,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 93,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 94,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 95,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 96,
+        "section": "D",
+        "price": 300000,
+        "state": "selected"
+    },
+    {
+        "number": 97,
+        "section": "D",
+        "price": 300000,
+        "state": "selected"
+    },
+    {
+        "number": 98,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 99,
+        "section": "D",
+        "price": 300000,
+        "state": "unselected"
+    },
+    {
+        "number": 100,
+        "section": "D",
+        "price": 300000,
+        "state": "selected"
+    },
+    {
+        "number": 101,
+        "section": "D",
+        "price": 300000,
+        "state": "selected"
+    },
+    {
+        "number": 102,
+        "section": "D",
+        "price": 300000,
+        "state": "selected"
+    },
+    {
+        "number": 103,
+        "section": "D",
+        "price": 200000,
+        "state": "unselected"
+    },
+    {
+        "number": 104,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 105,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 106,
+        "section": "D",
+        "price": 200000,
+        "state": "unselected"
+    },
+    {
+        "number": 107,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 108,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 109,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 110,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 111,
+        "section": "D",
+        "price": 200000,
+        "state": "unselected"
+    },
+    {
+        "number": 112,
+        "section": "D",
+        "price": 200000,
+        "state": "unselected"
+    },
+    {
+        "number": 113,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    },
+    {
+        "number": 114,
+        "section": "D",
+        "price": 200000,
+        "state": "selected"
+    }, 
+    
+    
+    
+    {
+        "number": 115,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 116,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 117,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 118,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 119,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 120,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 121,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    },
+    {
+        "number": 122,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 123,
+        "section": "A",
+        "price": 695000,
+        "state": "unselected"
+    },
+    {
+        "number": 124,
+        "section": "A",
+        "price": 695000,
+        "state": "userselected"
+    }
+    ,
+    {
+        "number": 125,
+        "section": "A",
+        "price": 695000,
+        "state": "selected"
+    }
+
+]
